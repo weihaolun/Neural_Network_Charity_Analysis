@@ -16,3 +16,19 @@ There are four deliverables in this project:
 2.	 Compile, Train, and Evaluate the Model
 3.	 Optimize the Model
 4.	 A Written Report on the Neural Network Model 
+
+## Results
+
+### Data Preprocessing
+
+- **What variable(s) are considered the target(s) for your model?**
+
+    The target is the binary feature “IS_SUCCESSFUL”, which indicates whether the money was used effectively. 
+
+- **What variable(s) are considered to be the features for your model?**
+
+    "APPLICATION_TYPE", "AFFILIATION", "CLASSIFICATION", "USE_CASE", "ORGANIZATION", "INCOME_AMT", "SPECIAL_CONSIDERATIONS", "ASK_AMT", "STATUS", these columns are features for the model.
+
+- **What variable(s) are neither targets nor features, and should be removed from the input data?**
+
+    “EIN” and “NAME” are identification columns, have been removed from the input data.
