@@ -1,6 +1,6 @@
 # Neural Network Charity Analysis with Neural Networks and Deep Learning
 
-## Overview
+## I. Overview
 
 ### Background
 
@@ -17,7 +17,7 @@ There are four deliverables in this project:
 3.	 Optimize the Model
 4.	 A Written Report on the Neural Network Model 
 
-## Results
+## II. Results
 
 ### Data Preprocessing
 
@@ -50,7 +50,7 @@ There are four deliverables in this project:
     3.	Added additional hidden layers.
     4.	Used different activation function, tanh.
 
-## Summary
+## III. Summary
 
 In conclusion, the overall results of the deep learning model are around 73%. Even though I have tried several methods to optimize the performance, the result is still under 75%. As recommendation, we can try to Random Forest Classifier, which is a classification algorithm consisting of many decisions to further evaluate the performance.
 
